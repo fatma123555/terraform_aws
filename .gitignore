@@ -1,7 +1,6 @@
 note.txt
 .github/workflows/terraform-apply.yml
 .github/workflows/your-fork.yml
-.github/dependabot.yml
 # Created by https://www.toptal.com/developers/gitignore/api/terraform
 # Edit at https://www.toptal.com/developers/gitignore?templates=terraform
 
